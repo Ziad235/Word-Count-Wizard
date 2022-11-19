@@ -10,3 +10,5 @@ it is found. Otherwise, it will return zero.
 ### To run the program:
 - Make sure you have the G++ complier installed.
 - Run the program on the terminal using "g++ <program_name>.cpp && ./a.out".
+
+_Use the file named "test_files.txt" as sample data._
